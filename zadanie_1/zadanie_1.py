@@ -1,3 +1,5 @@
+# Piotr Artym (122212)
+# Link do githuba: https://github.com/kingslayer335/python-intro/blob/main/zadanie_1/zadanie_1.py
 import math
 import random
 import time
