@@ -1,4 +1,5 @@
-#Piotr Artym, 122212
+# Piotr Artym, 122212
+# https://github.com/kingslayer335/python-intro/tree/main/zadanie_2
 import unittest
 from datetime import datetime
 from app import is_email_on_the_list, square_of_number, sort_numbers, convert_date, is_palindrome
