@@ -1,3 +1,4 @@
+#Piotr Artym, 122212
 from datetime import datetime
 def is_email_on_the_list(list, email):
     if email in list:
