@@ -20,7 +20,7 @@ def main():
     rancom = pm.weights.subjective.RANCOM(scoring=[5, 3, 6, 2])
     weights = rancom()
 
-    # minimalizacja ceny i czasu dostawy, maksymalizacja jakości i bezpieczeństwa
+    # minimalizacja ceny, maksymalizacja ekologi, mocy i roku produkcji
     types = np.array([-1, 1, 1, 1])
 
     # utworzenie problemu
